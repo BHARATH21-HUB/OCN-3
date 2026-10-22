@@ -41,6 +41,8 @@ The system is *instrumented* with:
 
 ## TABLE
 
+<img width="683" height="800" alt="image" src="https://github.com/user-attachments/assets/6cc0c99b-85dd-4f40-a2c1-dda5ade07801" />
+
 ---
 
 ## OUTPUT
@@ -53,6 +55,7 @@ The system is *instrumented* with:
 
 ## Result
 
+Link performer evaluatedd
 ---
 
 
